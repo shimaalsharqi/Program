@@ -1,0 +1,1 @@
+C++ is a powerful, high-performance programming language used to build fast applications, operating systems, and game engines.
